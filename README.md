@@ -109,7 +109,7 @@ Yes, you can turn off search bar with "search" attribute i.e [event_listing sear
 
 ### Changelog
 
-= 1.5.0 =
+## 1.5.0
 
 * Feature - Added custom option to add a custom date format.
 * Feature - Added custom option to add a custom slug for events.
